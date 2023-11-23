@@ -1,6 +1,6 @@
 #Importing the library
-from gtts import gTTS
-import os
+from gtts import gTTS#google text to sppech 
+import os #system related operation. 
 
 # Providing the text
 input_text = "Hello! I am Saravanan. This is My Project."
